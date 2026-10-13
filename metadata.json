@@ -1,0 +1,6 @@
+{
+  "name": "깨끗요정의 분리수거 도우미",
+  "description": "분리수거가 어려운 분들을 위한 귀엽고 친절한 분리배출 가이드. 품목별 상세 방법과 퀴즈, 4대 배출 원칙 제공.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
